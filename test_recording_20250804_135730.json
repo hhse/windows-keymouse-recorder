@@ -1,0 +1,176 @@
+[
+  {
+    "type": "mouse_move",
+    "x": 1280,
+    "y": 720,
+    "time": 1.4695720672607422
+  },
+  {
+    "type": "mouse_click",
+    "x": 1280,
+    "y": 720,
+    "button": "Button.left",
+    "pressed": true,
+    "time": 1.5943412780761719
+  },
+  {
+    "type": "mouse_click",
+    "x": 1280,
+    "y": 720,
+    "button": "Button.left",
+    "pressed": false,
+    "time": 1.5943412780761719
+  },
+  {
+    "type": "mouse_move",
+    "x": 1380,
+    "y": 620,
+    "time": 2.38777756690979
+  },
+  {
+    "type": "mouse_click",
+    "x": 1380,
+    "y": 620,
+    "button": "Button.right",
+    "pressed": true,
+    "time": 2.621525764465332
+  },
+  {
+    "type": "mouse_click",
+    "x": 1380,
+    "y": 620,
+    "button": "Button.right",
+    "pressed": false,
+    "time": 2.621525764465332
+  },
+  {
+    "type": "key_press",
+    "key": "H",
+    "time": 0.10897397994995117
+  },
+  {
+    "type": "key_release",
+    "key": "H",
+    "time": 0.10897397994995117
+  },
+  {
+    "type": "key_press",
+    "key": "e",
+    "time": 0.3256223201751709
+  },
+  {
+    "type": "key_release",
+    "key": "e",
+    "time": 0.3256223201751709
+  },
+  {
+    "type": "key_press",
+    "key": "l",
+    "time": 0.5456922054290771
+  },
+  {
+    "type": "key_release",
+    "key": "l",
+    "time": 0.5456922054290771
+  },
+  {
+    "type": "key_press",
+    "key": "l",
+    "time": 0.7639920711517334
+  },
+  {
+    "type": "key_release",
+    "key": "l",
+    "time": 0.7639920711517334
+  },
+  {
+    "type": "key_press",
+    "key": "o",
+    "time": 0.9826469421386719
+  },
+  {
+    "type": "key_release",
+    "key": "o",
+    "time": 0.9826469421386719
+  },
+  {
+    "type": "key_press",
+    "key": " ",
+    "time": 1.2007696628570557
+  },
+  {
+    "type": "key_release",
+    "key": " ",
+    "time": 1.2007696628570557
+  },
+  {
+    "type": "key_press",
+    "key": "W",
+    "time": 1.4190704822540283
+  },
+  {
+    "type": "key_release",
+    "key": "W",
+    "time": 1.4190704822540283
+  },
+  {
+    "type": "key_press",
+    "key": "o",
+    "time": 1.637786626815796
+  },
+  {
+    "type": "key_release",
+    "key": "o",
+    "time": 1.637786626815796
+  },
+  {
+    "type": "key_press",
+    "key": "r",
+    "time": 1.8565826416015625
+  },
+  {
+    "type": "key_release",
+    "key": "r",
+    "time": 1.8565826416015625
+  },
+  {
+    "type": "key_press",
+    "key": "l",
+    "time": 2.0730812549591064
+  },
+  {
+    "type": "key_release",
+    "key": "l",
+    "time": 2.0730812549591064
+  },
+  {
+    "type": "key_press",
+    "key": "d",
+    "time": 2.290817975997925
+  },
+  {
+    "type": "key_release",
+    "key": "d",
+    "time": 2.290817975997925
+  },
+  {
+    "type": "key_press",
+    "key": "!",
+    "time": 2.5079829692840576
+  },
+  {
+    "type": "key_release",
+    "key": "!",
+    "time": 2.5079829692840576
+  },
+  {
+    "type": "key_press",
+    "key": "Key.enter",
+    "time": 2.725429058074951
+  },
+  {
+    "type": "key_release",
+    "key": "Key.enter",
+    "time": 2.725429058074951
+  }
+]
