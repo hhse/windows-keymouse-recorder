@@ -211,10 +211,7 @@ python test_recording.py
 ## 📞 联系方式
 
 - **作者**: 木木iOS分享
-- **邮箱**: [your-email@example.com]
-- **GitHub**: [https://github.com/your-username]
-- **博客**: [https://your-blog.com]
-
+- **GitHub**: [ https://github.com/hhse/windows-keymouse-recorder]
 ## 📄 许可证
 
 本项目采用 [MIT](LICENSE) 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
